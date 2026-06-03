@@ -6,9 +6,9 @@ To protect the interests of customers who have purchased products manufactured b
 
 ### Coverage of Quality Assurance
 
-Products are covered by the Company’s quality assurance against defects in materials and manufacturing.
+Products are covered by the Company's quality assurance against defects in materials and manufacturing.
 
-The Company’s sole responsibility and the sole remedy for the Customer with respect to all our products are limited to the repair or replacement of our products that are directly defective at our discretion. The Company will not compensate for any indirect or incidental, special, or consequential damages, such as loss of income, loss of use, loss of production, or damage to other products or equipment resulting from defects in the product.
+The Company's sole responsibility and the sole remedy for the Customer with respect to all our products are limited to the repair or replacement of our products that are directly defective at our discretion. The Company will not compensate for any indirect or incidental, special, or consequential damages, such as loss of income, loss of use, loss of production, or damage to other products or equipment resulting from defects in the product.
 
 
 ### Period of Quality Assurance 
@@ -20,7 +20,7 @@ The Company guarantees the quality of the product for one year from the date tha
 
 To maintain quality assurance, you must follow the maintenance procedures and keep records as specified by the Company. When we decide as follows that the Customer does not comply with the terms of conditions, the quality assurance will be made invalid.
 
-* Damage to or breakdown of the product because of the Customer’s carelessness, inexperience in operation, negligence, arbitrary modification, disassembly, or repair
+* Damage to or breakdown of the product because of the Customer's carelessness, inexperience in operation, negligence, arbitrary modification, disassembly, or repair
 * Failure of or damage to the product because of the use and installation of parts, consumables, software, etc. that are not certified by the Company
 * Failure of or damage to the product because of incompliance with the instructions and precautions in the manual
 * Failure of or damage to the product because of the use for purposes other than the original purpose
